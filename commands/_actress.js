@@ -25,7 +25,7 @@ const updatedPhotoLinks = [
   "https://t.me/ActressChannelBackup/454",
   "https://t.me/ActressChannelBackup/455",
   "https://t.me/ActressChannelBackup/456",
-  "https://t.me/ActressChannelBackup/457", // More Link Here By @Privates_RoBot
+  "https://t.me/ActressChannelBackup/457", // More Link Here By @HGK_TEAM
 ];
 const randomPhotoIndex = Math.floor(Math.random() * updatedPhotoLinks.length);
 
